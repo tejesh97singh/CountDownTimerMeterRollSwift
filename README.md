@@ -12,7 +12,8 @@ In stop IBAction :  lblTimer.pause()
 lblTimer.setCountDownTime(minutes: 60*60)
 Done.
 
-https://user-images.githubusercontent.com/97300474/184793733-8011fedf-2e9c-45b6-ad79-d5b3676997a9.mp4
+![CountingTimermeterRoll](https://user-images.githubusercontent.com/97300474/184794654-c7b4dc06-02be-4a3a-ac3b-494379f00e60.gif)
+
 ![Screenshot 2022-08-16 at 9 20 29 AM](https://user-images.githubusercontent.com/97300474/184794300-cb0e96cb-19bd-4cd6-83e7-06b3e5a65f5e.png)
 
 
